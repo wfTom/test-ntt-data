@@ -1,0 +1,14 @@
+.starRating {
+  display: flex;
+  align-items: center;
+  color: black;
+  margin-left: 0.5rem;
+  font-size: 18px;
+}
+
+.on {
+  color: #000;
+}
+.off {
+  color: #ccc;
+}
